@@ -4,4 +4,5 @@ int main()
 	cout<<"hhhh"
 	cout<<"nnn"
 	cout<<"www"
+	cout<<"qqq"
 }
