@@ -6,4 +6,5 @@ int main()
 	cout<<"www"
 	cout<<"qqq"
 	cout<<"eee"
+	fdf
 }
