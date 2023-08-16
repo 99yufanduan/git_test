@@ -7,4 +7,6 @@ int main()
 	cout<<"qqq"
 	cout<<"eee"
 	fdf
+	cout<<"1033"
+	cout<<"1039"
 }
